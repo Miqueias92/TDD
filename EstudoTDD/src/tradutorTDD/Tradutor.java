@@ -1,4 +1,4 @@
-package tradutor;
+package tradutorTDD;
 
 import java.util.HashMap;
 import java.util.Map;

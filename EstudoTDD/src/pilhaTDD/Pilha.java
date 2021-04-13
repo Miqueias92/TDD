@@ -1,10 +1,9 @@
-package pilha;
+package pilhaTDD;
 
 public class Pilha {
-	
 	private Object[] elementos;
 	private int quantidade = 0;
-	
+		
 	public Pilha(int maximo) {
 		elementos = new Object[maximo];
 	}

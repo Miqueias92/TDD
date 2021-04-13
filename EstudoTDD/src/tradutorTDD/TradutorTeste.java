@@ -1,4 +1,4 @@
-package tradutor;
+package tradutorTDD;
 
 import static org.junit.Assert.*;
 
