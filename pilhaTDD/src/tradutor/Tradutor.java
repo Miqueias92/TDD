@@ -1,4 +1,4 @@
-package pilhaTDD.tradutor;
+package tradutor;
 
 import java.util.HashMap;
 import java.util.Map;

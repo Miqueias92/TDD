@@ -1,4 +1,4 @@
-package pilhaTDD.tradutor;
+package tradutor;
 
 import static org.junit.Assert.*;
 
