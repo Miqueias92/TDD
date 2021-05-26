@@ -11,7 +11,7 @@ public class MockObservadorCarrinho implements IObservadorCarrinho {
 	@Override
 	public void produtoAdicionado(String nome, int valor) {
 		if (darErro) 
-			throw new RuntimeException();
+			throw new RuntimeException("Problema simulado pelo Mock");
 		nomeRecebido = nome;
 		valorRecebido = valor;
 	}

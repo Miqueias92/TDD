@@ -56,7 +56,6 @@ class TesteCarrinhoDeCompras {
 		
 		carrinho.adicionaProduto(new Produto("tenis", 100));
 		mock1.verificaRecebimentoProduto("tenis", 100);
-		mock2.verificaRecebimentoProduto("tenis", 100);
 		mock3.verificaRecebimentoProduto("tenis", 100);
 	}
 }
